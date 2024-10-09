@@ -1,0 +1,501 @@
+GeneSymbol,GeneID,DiseaseName,DiseaseID,DirectEvidence,InferenceChemicalName,InferenceScore
+11-BETA-HSD3,100174880,"Abnormalities, Drug-Induced",MESH:D000014,,Endocrine Disruptors,5.22
+11-BETA-HSD3,100174880,Amyotrophic Lateral Sclerosis,MESH:D000690,,"Water Pollutants, Chemical",4.77
+11-BETA-HSD3,100174880,Anemia,MESH:D000740,,"Water Pollutants, Chemical",4.3
+11-BETA-HSD3,100174880,"Anemia, Hemolytic",MESH:D000743,,"Water Pollutants, Chemical",4.6
+11-BETA-HSD3,100174880,Asthenozoospermia,MESH:D053627,,"Water Pollutants, Chemical",5.07
+11-BETA-HSD3,100174880,Birth Weight,MESH:D001724,,Endocrine Disruptors,12.25
+11-BETA-HSD3,100174880,Birth Weight,MESH:D001724,,"Water Pollutants, Chemical",12.25
+11-BETA-HSD3,100174880,Body Weight,MESH:D001835,,"Water Pollutants, Chemical",5.19
+11-BETA-HSD3,100174880,Breast Neoplasms,MESH:D001943,,Endocrine Disruptors,8.82
+11-BETA-HSD3,100174880,Breast Neoplasms,MESH:D001943,,"Water Pollutants, Chemical",8.82
+11-BETA-HSD3,100174880,"Cell Transformation, Neoplastic",MESH:D002471,,"Water Pollutants, Chemical",4.26
+11-BETA-HSD3,100174880,Chromosome Aberrations,MESH:D002869,,"Water Pollutants, Chemical",4.67
+11-BETA-HSD3,100174880,Death,MESH:D003643,,"Water Pollutants, Chemical",4.73
+11-BETA-HSD3,100174880,"Dermatitis, Irritant",MESH:D017453,,"Water Pollutants, Chemical",5.27
+11-BETA-HSD3,100174880,Disorders of Sex Development,MESH:D012734,,Endocrine Disruptors,14.22
+11-BETA-HSD3,100174880,Disorders of Sex Development,MESH:D012734,,"Water Pollutants, Chemical",14.22
+11-BETA-HSD3,100174880,Dizziness,MESH:D004244,,"Water Pollutants, Chemical",4.36
+11-BETA-HSD3,100174880,Esophageal Neoplasms,MESH:D004938,,"Water Pollutants, Chemical",4.71
+11-BETA-HSD3,100174880,Eye Pain,MESH:D058447,,"Water Pollutants, Chemical",6.07
+11-BETA-HSD3,100174880,Fatty Liver,MESH:D005234,,"Water Pollutants, Chemical",4.15
+11-BETA-HSD3,100174880,Fetal Death,MESH:D005313,,Endocrine Disruptors,5.8
+11-BETA-HSD3,100174880,Headache,MESH:D006261,,"Water Pollutants, Chemical",4.16
+11-BETA-HSD3,100174880,Hodgkin Disease,MESH:D006689,,"Water Pollutants, Chemical",4.96
+11-BETA-HSD3,100174880,Hypokinesia,MESH:D018476,,"Water Pollutants, Chemical",4.65
+11-BETA-HSD3,100174880,Immune System Diseases,MESH:D007154,,"Water Pollutants, Chemical",5.16
+11-BETA-HSD3,100174880,Infertility,MESH:D007246,,"Water Pollutants, Chemical",4.9
+11-BETA-HSD3,100174880,"Infertility, Female",MESH:D007247,,Endocrine Disruptors,5.64
+11-BETA-HSD3,100174880,"Infertility, Male",MESH:D007248,,Endocrine Disruptors,5.4
+11-BETA-HSD3,100174880,Inflammation,MESH:D007249,,"Water Pollutants, Chemical",3.84
+11-BETA-HSD3,100174880,Kidney Diseases,MESH:D007674,,"Water Pollutants, Chemical",3.8
+11-BETA-HSD3,100174880,Kidney Neoplasms,MESH:D007680,,"Water Pollutants, Chemical",4.68
+11-BETA-HSD3,100174880,Leukopenia,MESH:D007970,,"Water Pollutants, Chemical",4.61
+11-BETA-HSD3,100174880,Liver Neoplasms,MESH:D008113,,"Water Pollutants, Chemical",4.1
+11-BETA-HSD3,100174880,Lymphocytosis,MESH:D008218,,"Water Pollutants, Chemical",6.02
+11-BETA-HSD3,100174880,Mercury Poisoning,MESH:D008630,,"Water Pollutants, Chemical",5.67
+11-BETA-HSD3,100174880,"Micronuclei, Chromosome-Defective",MESH:D048629,,"Water Pollutants, Chemical",4.4
+11-BETA-HSD3,100174880,Multiple Myeloma,MESH:D009101,,"Water Pollutants, Chemical",4.69
+11-BETA-HSD3,100174880,Neoplasms,MESH:D009369,,"Water Pollutants, Chemical",4.14
+11-BETA-HSD3,100174880,Neutropenia,MESH:D009503,,"Water Pollutants, Chemical",4.5
+11-BETA-HSD3,100174880,Obesity,MESH:D009765,,"Water Pollutants, Chemical",4.24
+11-BETA-HSD3,100174880,Parkinson Disease,MESH:D010300,,"Water Pollutants, Chemical",4.38
+11-BETA-HSD3,100174880,Pharyngitis,MESH:D010612,,"Water Pollutants, Chemical",5.59
+11-BETA-HSD3,100174880,Poisoning,MESH:D011041,,"Water Pollutants, Chemical",4.14
+11-BETA-HSD3,100174880,Premature Birth,MESH:D047928,,"Water Pollutants, Chemical",4.93
+11-BETA-HSD3,100174880,Prenatal Exposure Delayed Effects,MESH:D011297,,Endocrine Disruptors,4.98
+11-BETA-HSD3,100174880,Prostatic Diseases,MESH:D011469,,Endocrine Disruptors,6.07
+11-BETA-HSD3,100174880,"Puberty, Delayed",MESH:D011628,,Endocrine Disruptors,6.32
+11-BETA-HSD3,100174880,"Puberty, Precocious",MESH:D011629,,"Water Pollutants, Chemical",5.37
+11-BETA-HSD3,100174880,Testicular Diseases,MESH:D013733,,"Water Pollutants, Chemical",4.47
+11-BETA-HSD3,100174880,Uterine Anomalies,MESH:C562565,,Endocrine Disruptors,7.19
+11-BETA-HSD3,100174880,Uterine Cervical Neoplasms,MESH:D002583,,"Water Pollutants, Chemical",5.0
+11-BETA-HSD3,100174880,Weight Gain,MESH:D015430,,Endocrine Disruptors,4.94
+11-BETA-HSD3,100174880,Weight Loss,MESH:D015431,,"Water Pollutants, Chemical",3.86
+128UP,36288,Arsenic Poisoning,MESH:D020261,,zinc chloride,5.14
+128UP,36288,Chemical and Drug Induced Liver Injury,MESH:D056486,,zinc chloride,3.63
+128UP,36288,Depressive Disorder,MESH:D003866,,zinc chloride,4.36
+128UP,36288,Mercury Poisoning,MESH:D008630,,zinc chloride,5.87
+128UP,36288,Necrosis,MESH:D009336,,zinc chloride,4.0
+128UP,36288,Neoplasms,MESH:D009369,,zinc chloride,4.34
+128UP,36288,Nociceptive Pain,MESH:D059226,,zinc chloride,5.43
+128UP,36288,Prenatal Injuries,MESH:D049188,,zinc chloride,4.83
+128UP,36288,Proteinuria,MESH:D011507,,zinc chloride,4.47
+128UP,36288,Weight Loss,MESH:D015431,,zinc chloride,4.06
+14-3-3EPSILON,42186,Prenatal Injuries,MESH:D049188,,fenoxycarb,5.02
+14-3-3ZETA,36059,Alcohol-Related Disorders,MESH:D019973,,lead acetate,5.15
+14-3-3ZETA,36059,Anxiety Disorders,MESH:D001008,,lead acetate,9.25
+14-3-3ZETA,36059,Anxiety Disorders,MESH:D001008,,Pentylenetetrazole,9.25
+14-3-3ZETA,36059,Ataxia,MESH:D001259,,lead acetate,3.72
+14-3-3ZETA,36059,Autoimmune Diseases,MESH:D001327,,lead acetate,4.23
+14-3-3ZETA,36059,Bone Diseases,MESH:D001847,,lead acetate,4.49
+14-3-3ZETA,36059,"Bone Diseases, Metabolic",MESH:D001851,,lead acetate,4.62
+14-3-3ZETA,36059,Brain Diseases,MESH:D001927,,lead acetate,3.74
+14-3-3ZETA,36059,Brain Edema,MESH:D001929,,lead acetate,4.17
+14-3-3ZETA,36059,Brain Injuries,MESH:D001930,,lead acetate,9.32
+14-3-3ZETA,36059,Brain Injuries,MESH:D001930,,Pentylenetetrazole,9.32
+14-3-3ZETA,36059,Cardiomyopathies,MESH:D009202,,lead acetate,3.57
+14-3-3ZETA,36059,"Cell Transformation, Neoplastic",MESH:D002471,,lead acetate,3.58
+14-3-3ZETA,36059,Chemical and Drug Induced Liver Injury,MESH:D056486,,lead acetate,2.76
+14-3-3ZETA,36059,Cognition Disorders,MESH:D003072,,lead acetate,8.94
+14-3-3ZETA,36059,Cognition Disorders,MESH:D003072,,Pentylenetetrazole,8.94
+14-3-3ZETA,36059,"Congenital, Hereditary, and Neonatal Diseases and Abnormalities",MESH:D009358,,lead acetate,5.18
+14-3-3ZETA,36059,Craniofacial Abnormalities,MESH:D019465,,lead acetate,3.73
+14-3-3ZETA,36059,Death,MESH:D003643,,Pentylenetetrazole,4.51
+14-3-3ZETA,36059,"Death, Sudden",MESH:D003645,,Pentylenetetrazole,5.03
+14-3-3ZETA,36059,Depressive Disorder,MESH:D003866,,lead acetate,3.48
+14-3-3ZETA,36059,"Disease Models, Animal",MESH:D004195,,Pentylenetetrazole,3.87
+14-3-3ZETA,36059,Drug-Related Side Effects and Adverse Reactions,MESH:D064420,,lead acetate,7.99
+14-3-3ZETA,36059,Drug-Related Side Effects and Adverse Reactions,MESH:D064420,,Pentylenetetrazole,7.99
+14-3-3ZETA,36059,Ectromelia,MESH:D004480,,lead acetate,5.44
+14-3-3ZETA,36059,Edema,MESH:D004487,,lead acetate,3.25
+14-3-3ZETA,36059,Encephalocele,MESH:D004677,,lead acetate,5.34
+14-3-3ZETA,36059,Epilepsy,MESH:D004827,,Pentylenetetrazole,4.25
+14-3-3ZETA,36059,"Epilepsy, Absence",MESH:D004832,,Pentylenetetrazole,5.13
+14-3-3ZETA,36059,"Epilepsy, Tonic-Clonic",MESH:D004830,,Pentylenetetrazole,4.46
+14-3-3ZETA,36059,Fetal Death,MESH:D005313,,lead acetate,4.34
+14-3-3ZETA,36059,Fetal Growth Retardation,MESH:D005317,,lead acetate,3.94
+14-3-3ZETA,36059,Fetal Resorption,MESH:D005327,,lead acetate,4.72
+14-3-3ZETA,36059,Hearing Disorders,MESH:D006311,,lead acetate,4.43
+14-3-3ZETA,36059,Hematologic Diseases,MESH:D006402,,lead acetate,4.12
+14-3-3ZETA,36059,Hemolysis,MESH:D006461,,lead acetate,4.02
+14-3-3ZETA,36059,Hyperkinesis,MESH:D006948,,lead acetate,3.48
+14-3-3ZETA,36059,"Hypersensitivity, Delayed",MESH:D006968,,lead acetate,4.61
+14-3-3ZETA,36059,Hypertension,MESH:D006973,,lead acetate,7.37
+14-3-3ZETA,36059,Hypertension,MESH:D006973,,Pentylenetetrazole,7.37
+14-3-3ZETA,36059,Hypoalphalipoproteinemias,MESH:D052456,,lead acetate,5.04
+14-3-3ZETA,36059,Immune System Diseases,MESH:D007154,,lead acetate,4.47
+14-3-3ZETA,36059,"Infertility, Male",MESH:D007248,,lead acetate,3.94
+14-3-3ZETA,36059,Inflammation,MESH:D007249,,lead acetate,3.16
+14-3-3ZETA,36059,Kidney Diseases,MESH:D007674,,lead acetate,3.13
+14-3-3ZETA,36059,"Lead Poisoning, Nervous System",MESH:D020263,,lead acetate,5.84
+14-3-3ZETA,36059,"Lead Poisoning, Nervous System, Adult",MESH:D020265,,lead acetate,6.19
+14-3-3ZETA,36059,"Lead Poisoning, Nervous System, Childhood",MESH:D020264,,lead acetate,5.99
+14-3-3ZETA,36059,Learning Disabilities,MESH:D007859,,lead acetate,9.34
+14-3-3ZETA,36059,Learning Disabilities,MESH:D007859,,Pentylenetetrazole,9.34
+14-3-3ZETA,36059,Leukoencephalopathies,MESH:D056784,,lead acetate,4.43
+14-3-3ZETA,36059,Lung Diseases,MESH:D008171,,lead acetate,3.89
+14-3-3ZETA,36059,Memory Disorders,MESH:D008569,,lead acetate,8.64
+14-3-3ZETA,36059,Memory Disorders,MESH:D008569,,Pentylenetetrazole,8.64
+14-3-3ZETA,36059,Motor Disorders,MESH:D000068079,,lead acetate,4.76
+14-3-3ZETA,36059,Movement Disorders,MESH:D009069,,lead acetate,3.64
+14-3-3ZETA,36059,Myoclonus,MESH:D009207,,Pentylenetetrazole,4.29
+14-3-3ZETA,36059,Necrosis,MESH:D009336,,lead acetate,3.12
+14-3-3ZETA,36059,Nephrosis,MESH:D009401,,lead acetate,4.44
+14-3-3ZETA,36059,Nerve Degeneration,MESH:D009410,,lead acetate,8.46
+14-3-3ZETA,36059,Nerve Degeneration,MESH:D009410,,Pentylenetetrazole,8.46
+14-3-3ZETA,36059,Nervous System Diseases,MESH:D009422,,Pentylenetetrazole,4.04
+14-3-3ZETA,36059,Neurodegenerative Diseases,MESH:D019636,,Pentylenetetrazole,4.5
+14-3-3ZETA,36059,Neurotoxicity Syndromes,MESH:D020258,,lead acetate,3.67
+14-3-3ZETA,36059,Oligospermia,MESH:D009845,,lead acetate,3.89
+14-3-3ZETA,36059,Opioid-Related Disorders,MESH:D009293,,lead acetate,4.69
+14-3-3ZETA,36059,Optic Nerve Diseases,MESH:D009901,,lead acetate,4.58
+14-3-3ZETA,36059,Paralysis,MESH:D010243,,lead acetate,3.87
+14-3-3ZETA,36059,"Plaque, Amyloid",MESH:D058225,,lead acetate,5.34
+14-3-3ZETA,36059,Prenatal Exposure Delayed Effects,MESH:D011297,,lead acetate,3.52
+14-3-3ZETA,36059,Psychomotor Disorders,MESH:D011596,,lead acetate,4.45
+14-3-3ZETA,36059,"Reflex, Abnormal",MESH:D012021,,Pentylenetetrazole,4.55
+14-3-3ZETA,36059,Retinal Diseases,MESH:D012164,,lead acetate,4.21
+14-3-3ZETA,36059,Seizures,MESH:D012640,,lead acetate,7.13
+14-3-3ZETA,36059,Seizures,MESH:D012640,,Pentylenetetrazole,7.13
+14-3-3ZETA,36059,Splenomegaly,MESH:D013163,,lead acetate,4.18
+14-3-3ZETA,36059,Status Epilepticus,MESH:D013226,,Pentylenetetrazole,4.21
+14-3-3ZETA,36059,Teratozoospermia,MESH:D000072660,,lead acetate,4.26
+14-3-3ZETA,36059,Testicular Diseases,MESH:D013733,,lead acetate,3.78
+14-3-3ZETA,36059,Thyroid Diseases,MESH:D013959,,lead acetate,4.36
+14-3-3ZETA,36059,"Ventricular Dysfunction, Left",MESH:D018487,,lead acetate,3.73
+14-3-3ZETA,36059,Weight Gain,MESH:D015430,,lead acetate,3.48
+14-3-3ZETA,36059,Weight Loss,MESH:D015431,,lead acetate,3.18
+143B1,100528489,Abdominal Pain,MESH:D015746,,Copper,4.14
+143B1,100528489,Aberrant Crypt Foci,MESH:D058739,,Copper,5.06
+143B1,100528489,"Abnormalities, Multiple",MESH:D000015,,Copper,4.45
+143B1,100528489,Acidosis,MESH:D000138,,Copper,4.53
+143B1,100528489,Acute Coronary Syndrome,MESH:D054058,,Copper,4.65
+143B1,100528489,Alzheimer Disease,MESH:D000544,,Copper,4.07
+143B1,100528489,Amyotrophic Lateral Sclerosis,MESH:D000690,,Copper,4.36
+143B1,100528489,Anemia,MESH:D000740,,Copper,3.88
+143B1,100528489,"Anemia, Iron-Deficiency",MESH:D018798,,Copper,5.28
+143B1,100528489,Anxiety Disorders,MESH:D001008,,Copper,3.89
+143B1,100528489,Ataxia,MESH:D001259,,Copper,3.99
+143B1,100528489,Attention Deficit Disorder with Hyperactivity,MESH:D001289,,Copper,4.48
+143B1,100528489,Autism Spectrum Disorder,MESH:D000067877,,Copper,3.79
+143B1,100528489,Body-Weight Trajectory,MESH:D000077962,,Copper,5.45
+143B1,100528489,Brain Injuries,MESH:D001930,,Copper,3.91
+143B1,100528489,Brain Neoplasms,MESH:D001932,,Copper,4.53
+143B1,100528489,Breast Neoplasms,MESH:D001943,,Copper,3.34
+143B1,100528489,Cadmium Poisoning,MESH:D002105,,Copper,5.71
+143B1,100528489,"Carcinoma, Hepatocellular",MESH:D006528,,Copper,3.45
+143B1,100528489,Cardiomegaly,MESH:D006332,,Copper,3.89
+143B1,100528489,Cardiomyopathies,MESH:D009202,,Copper,3.84
+143B1,100528489,"Cardiomyopathy, Hypertrophic",MESH:D002312,,Copper,4.61
+143B1,100528489,Cardiovascular Diseases,MESH:D002318,,Copper,3.95
+143B1,100528489,Cataract,MESH:D002386,,Copper,4.56
+143B1,100528489,"Ceroid Lipofuscinosis, Neuronal, 6",MESH:C566627,,Copper,5.49
+143B1,100528489,Chemical and Drug Induced Liver Injury,MESH:D056486,,Copper,3.0
+143B1,100528489,Colorectal Neoplasms,MESH:D015179,,Copper,3.77
+143B1,100528489,Congenital Abnormalities,MESH:D000013,,Copper,4.41
+143B1,100528489,Copper-Overload Cirrhosis,MESH:C566858,,Copper,5.56
+143B1,100528489,"Copper Toxicosis, Idiopathic",MESH:C565846,,Copper,6.81
+143B1,100528489,Creutzfeldt-Jakob Syndrome,MESH:D007562,,Copper,5.49
+143B1,100528489,Cystinosis,MESH:D003554,,Copper,6.26
+143B1,100528489,Cytochrome-c Oxidase Deficiency,MESH:D030401,,Copper,5.77
+143B1,100528489,Death,MESH:D003643,,Copper,4.32
+143B1,100528489,Deficiency Diseases,MESH:D003677,,Copper,6.0
+143B1,100528489,Dementia,MESH:D003704,,Copper,4.56
+143B1,100528489,Developmental Disabilities,MESH:D002658,,Copper,4.65
+143B1,100528489,Diabetes Complications,MESH:D048909,,Copper,4.73
+143B1,100528489,Diabetes Mellitus,MESH:D003920,,Copper,4.21
+143B1,100528489,"Diabetes Mellitus, Type 2",MESH:D003924,,Copper,3.83
+143B1,100528489,Diabetic Cardiomyopathies,MESH:D058065,,Copper,4.91
+143B1,100528489,Diabetic Retinopathy,MESH:D003930,,Copper,4.94
+143B1,100528489,Diarrhea,MESH:D003967,,Copper,3.82
+143B1,100528489,"Disease Models, Animal",MESH:D004195,,Copper,3.68
+143B1,100528489,Disease Progression,MESH:D018450,,Copper,3.97
+143B1,100528489,Drug-Related Side Effects and Adverse Reactions,MESH:D064420,,Copper,3.5
+143B1,100528489,Dysarthria,MESH:D004401,,Copper,4.63
+143B1,100528489,Edema,MESH:D004487,,Copper,3.51
+143B1,100528489,Emphysema,MESH:D004646,,Copper,4.85
+143B1,100528489,Erythrokeratodermia Variabilis 3,MESH:C563739,,Copper,6.26
+143B1,100528489,Familial apoceruloplasmin deficiency,MESH:C536004,,Copper,5.91
+143B1,100528489,Fatty Liver,MESH:D005234,,Copper,3.73
+143B1,100528489,Gastrointestinal Diseases,MESH:D005767,,Copper,4.04
+143B1,100528489,Gliosis,MESH:D005911,,Copper,4.44
+143B1,100528489,Growth Disorders,MESH:D006130,,Copper,4.42
+143B1,100528489,"Hearing Loss, Sensorineural",MESH:D006319,,Copper,4.53
+143B1,100528489,"Heart Defects, Congenital",MESH:D006330,,Copper,4.29
+143B1,100528489,Heart Failure,MESH:D006333,,Copper,3.63
+143B1,100528489,Heavy Metal Poisoning,MESH:D000075322,,Copper,5.28
+143B1,100528489,"Heavy Metal Poisoning, Nervous System",MESH:D020260,,Copper,6.11
+143B1,100528489,Hematologic Diseases,MESH:D006402,,Copper,4.39
+143B1,100528489,Hemolysis,MESH:D006461,,Copper,4.28
+143B1,100528489,Hepatitis,MESH:D006505,,Copper,4.07
+143B1,100528489,"Hepatitis, Animal",MESH:D006520,,Copper,5.45
+143B1,100528489,"Hepatitis, Chronic",MESH:D006521,,Copper,4.88
+143B1,100528489,Hepatolenticular Degeneration,MESH:D006527,,Copper,4.94
+143B1,100528489,Huntington Disease,MESH:D006816,,Copper,4.87
+143B1,100528489,Hypercholesterolemia,MESH:D006937,,Copper,4.22
+143B1,100528489,Hyperglycemia,MESH:D006943,,Copper,3.77
+143B1,100528489,Hyperinsulinism,MESH:D006946,,Copper,4.44
+143B1,100528489,Hypertrophy,MESH:D006984,,Copper,4.27
+143B1,100528489,Immune System Diseases,MESH:D007154,,Copper,4.74
+143B1,100528489,Inflammation,MESH:D007249,,Copper,3.42
+143B1,100528489,Insulin Resistance,MESH:D007333,,Copper,3.85
+143B1,100528489,Intestinal Neoplasms,MESH:D007414,,Copper,4.73
+143B1,100528489,Ischemia,MESH:D007511,,Copper,4.29
+143B1,100528489,Jaundice,MESH:D007565,,Copper,4.17
+143B1,100528489,Kidney Diseases,MESH:D007674,,Copper,3.39
+143B1,100528489,"Kidney Failure, Chronic",MESH:D007676,,Copper,4.3
+143B1,100528489,"Kidney Tubular Necrosis, Acute",MESH:D007683,,Copper,4.26
+143B1,100528489,Learning Disabilities,MESH:D007859,,Copper,3.92
+143B1,100528489,Leukocyte Disorders,MESH:D007960,,Copper,5.42
+143B1,100528489,Liver Cirrhosis,MESH:D008103,,Copper,3.84
+143B1,100528489,"Liver Cirrhosis, Biliary",MESH:D008105,,Copper,4.65
+143B1,100528489,"Liver Failure, Acute",MESH:D017114,,Copper,4.14
+143B1,100528489,Liver Neoplasms,MESH:D008113,,Copper,3.68
+143B1,100528489,"Liver Neoplasms, Experimental",MESH:D008114,,Copper,3.79
+143B1,100528489,"Malaria, Falciparum",MESH:D016778,,Copper,4.92
+143B1,100528489,Malformations of Cortical Development,MESH:D054220,,Copper,5.18
+143B1,100528489,Memory Disorders,MESH:D008569,,Copper,3.7
+143B1,100528489,Menkes Kinky Hair Syndrome,MESH:D007706,,Copper,5.91
+143B1,100528489,Mercury Poisoning,MESH:D008630,,Copper,5.26
+143B1,100528489,Mesothelioma,MESH:D008654,,Copper,4.53
+143B1,100528489,Metabolic Syndrome,MESH:D024821,,Copper,4.46
+143B1,100528489,"Metabolism, Inborn Errors",MESH:D008661,,Copper,5.14
+143B1,100528489,Mitochondrial Diseases,MESH:D028361,,Copper,4.65
+143B1,100528489,Motor Disorders,MESH:D000068079,,Copper,5.03
+143B1,100528489,Motor Skills Disorders,MESH:D019957,,Copper,4.52
+143B1,100528489,Movement Disorders,MESH:D009069,,Copper,3.91
+143B1,100528489,Multiple Organ Failure,MESH:D009102,,Copper,4.94
+143B1,100528489,Muscle Hypotonia,MESH:D009123,,Copper,5.03
+143B1,100528489,Myocardial Ischemia,MESH:D017202,,Copper,3.82
+143B1,100528489,Nausea,MESH:D009325,,Copper,3.66
+143B1,100528489,Necrosis,MESH:D009336,,Copper,3.38
+143B1,100528489,Neointima,MESH:D058426,,Copper,5.1
+143B1,100528489,Neoplasm Micrometastasis,MESH:D061206,,Copper,6.46
+143B1,100528489,Neoplasms,MESH:D009369,,Copper,3.72
+143B1,100528489,"Neoplasms, Experimental",MESH:D009374,,Copper,3.77
+143B1,100528489,"Neovascularization, Pathologic",MESH:D009389,,Copper,4.72
+143B1,100528489,Nerve Degeneration,MESH:D009410,,Copper,3.65
+143B1,100528489,Nervous System Diseases,MESH:D009422,,Copper,3.86
+143B1,100528489,Nervous System Malformations,MESH:D009421,,Copper,4.73
+143B1,100528489,Neurobehavioral Manifestations,MESH:D019954,,Copper,4.17
+143B1,100528489,Neurodegenerative Diseases,MESH:D019636,,Copper,4.32
+143B1,100528489,Neurologic Manifestations,MESH:D009461,,Copper,4.32
+143B1,100528489,Non-alcoholic Fatty Liver Disease,MESH:D065626,,Copper,4.11
+143B1,100528489,Occipital horn syndrome,MESH:C537860,,Copper,6.46
+143B1,100528489,Optic Nerve Diseases,MESH:D009901,,Copper,4.85
+143B1,100528489,Pancreatic Diseases,MESH:D010182,,Copper,4.7
+143B1,100528489,Paralysis,MESH:D010243,,Copper,4.14
+143B1,100528489,Parkinson Disease,MESH:D010300,,Copper,3.97
+143B1,100528489,Peripheral Nervous System Diseases,MESH:D010523,,Copper,3.94
+143B1,100528489,Poisoning,MESH:D011041,,Copper,3.72
+143B1,100528489,Precancerous Conditions,MESH:D011230,,Copper,3.96
+143B1,100528489,Premature Birth,MESH:D047928,,Copper,4.52
+143B1,100528489,Prenatal Exposure Delayed Effects,MESH:D011297,,Copper,3.78
+143B1,100528489,Prostatic Neoplasms,MESH:D011471,,Copper,3.4
+143B1,100528489,Proteinuria,MESH:D011507,,Copper,3.86
+143B1,100528489,Pseudomonas Infections,MESH:D011552,,Copper,5.07
+143B1,100528489,"Renal Insufficiency, Chronic",MESH:D051436,,Copper,5.04
+143B1,100528489,"Salmonella Infections, Animal",MESH:D012481,,Copper,5.83
+143B1,100528489,Schizophrenia,MESH:D012559,,Copper,3.94
+143B1,100528489,Scleral Diseases,MESH:D015422,,Copper,6.46
+143B1,100528489,Scrapie,MESH:D012608,,Copper,5.65
+143B1,100528489,Seizures,MESH:D012640,,Copper,3.24
+143B1,100528489,Spinal Cord Diseases,MESH:D013118,,Copper,4.78
+143B1,100528489,Splenic Diseases,MESH:D013158,,Copper,4.7
+143B1,100528489,Stomach Ulcer,MESH:D013276,,Copper,4.1
+143B1,100528489,Thyroid Neoplasms,MESH:D013964,,Copper,4.34
+143B1,100528489,Tremor,MESH:D014202,,Copper,3.8
+143B1,100528489,Vascular Malformations,MESH:D054079,,Copper,5.36
+143B1,100528489,Vascular System Injuries,MESH:D057772,,Copper,5.12
+143B1,100528489,Ventricular Dysfunction,MESH:D018754,,Copper,4.67
+143B1,100528489,Vomiting,MESH:D014839,,Copper,3.7
+143B1,100528489,Weight Loss,MESH:D015431,,Copper,3.44
+143B2,100195171,Acute Kidney Injury,MESH:D058186,,sodium arsenate,3.67
+143B2,100195171,Adenocarcinoma,MESH:D000230,,sodium arsenate,4.09
+143B2,100195171,Arsenic Poisoning,MESH:D020261,,sodium arsenate,4.69
+143B2,100195171,Asthenozoospermia,MESH:D053627,,sodium arsenate,4.82
+143B2,100195171,"Cell Transformation, Neoplastic",MESH:D002471,,sodium arsenate,4.01
+143B2,100195171,Chemical and Drug Induced Liver Injury,MESH:D056486,,sodium arsenate,3.17
+143B2,100195171,Cleft Lip,MESH:D002971,,sodium arsenate,5.06
+143B2,100195171,Cleft Palate,MESH:D002972,,sodium arsenate,4.64
+143B2,100195171,Congenital Abnormalities,MESH:D000013,,sodium arsenate,4.58
+143B2,100195171,Craniofacial Abnormalities,MESH:D019465,,sodium arsenate,4.16
+143B2,100195171,Death,MESH:D003643,,sodium arsenate,4.49
+143B2,100195171,Depressive Disorder,MESH:D003866,,sodium arsenate,3.91
+143B2,100195171,Dysbiosis,MESH:D064806,,sodium arsenate,4.74
+143B2,100195171,Dyslipidemias,MESH:D050171,,sodium arsenate,4.41
+143B2,100195171,Embryo Loss,MESH:D020964,,sodium arsenate,4.42
+143B2,100195171,Encephalocele,MESH:D004677,,sodium arsenate,5.77
+143B2,100195171,Endometrial Hyperplasia,MESH:D004714,,sodium arsenate,5.36
+143B2,100195171,Eye Abnormalities,MESH:D005124,,sodium arsenate,4.95
+143B2,100195171,Fatigue,MESH:D005221,,sodium arsenate,4.24
+143B2,100195171,Fetal Resorption,MESH:D005327,,sodium arsenate,5.15
+143B2,100195171,Glucose Intolerance,MESH:D018149,,sodium arsenate,4.29
+143B2,100195171,Hypercholesterolemia,MESH:D006937,,sodium arsenate,4.38
+143B2,100195171,Hyperglycemia,MESH:D006943,,sodium arsenate,3.94
+143B2,100195171,Hyperplasia,MESH:D006965,,sodium arsenate,4.06
+143B2,100195171,Hypertriglyceridemia,MESH:D015228,,sodium arsenate,4.51
+143B2,100195171,"Infertility, Male",MESH:D007248,,sodium arsenate,4.37
+143B2,100195171,Keratosis,MESH:D007642,,sodium arsenate,5.42
+143B2,100195171,Kidney Diseases,MESH:D007674,,sodium arsenate,3.55
+143B2,100195171,Musculoskeletal Abnormalities,MESH:D009139,,sodium arsenate,4.98
+143B2,100195171,Neural Tube Defects,MESH:D009436,,sodium arsenate,4.5
+143B2,100195171,Oligospermia,MESH:D009845,,sodium arsenate,4.33
+143B2,100195171,Polydipsia,MESH:D059606,,sodium arsenate,6.0
+143B2,100195171,Polyuria,MESH:D011141,,sodium arsenate,4.76
+143B2,100195171,Precancerous Conditions,MESH:D011230,,sodium arsenate,4.12
+143B2,100195171,Renal Insufficiency,MESH:D051437,,sodium arsenate,3.99
+143B2,100195171,Skin Diseases,MESH:D012871,,sodium arsenate,4.23
+143B2,100195171,Testicular Diseases,MESH:D013733,,sodium arsenate,4.22
+143B2,100195171,Thyroid Diseases,MESH:D013959,,sodium arsenate,4.8
+143B2,100195171,Uterine Neoplasms,MESH:D014594,,sodium arsenate,4.99
+143B2,100195171,Vascular Calcification,MESH:D061205,,sodium arsenate,5.55
+143B2,100195171,Weight Loss,MESH:D015431,,sodium arsenate,3.6
+1700001K19RIKL,299330,"Abnormalities, Drug-Induced",MESH:D000014,,bisphenol A,12.37
+1700001K19RIKL,299330,"Abnormalities, Drug-Induced",MESH:D000014,,Diethylhexyl Phthalate,12.37
+1700001K19RIKL,299330,"Abnormalities, Drug-Induced",MESH:D000014,,Oxygen,12.37
+1700001K19RIKL,299330,"Abnormalities, Multiple",MESH:D000015,,bisphenol A,8.35
+1700001K19RIKL,299330,"Abnormalities, Multiple",MESH:D000015,,Particulate Matter,8.35
+1700001K19RIKL,299330,"Abortion, Spontaneous",MESH:D000022,,Diethylhexyl Phthalate,3.26
+1700001K19RIKL,299330,Abscess,MESH:D000038,,Gentamicins,3.89
+1700001K19RIKL,299330,Acidosis,MESH:D000138,,Diethylhexyl Phthalate,3.54
+1700001K19RIKL,299330,Acute Kidney Injury,MESH:D058186,,bisphenol A,18.6
+1700001K19RIKL,299330,Acute Kidney Injury,MESH:D058186,,Blood Glucose,18.6
+1700001K19RIKL,299330,Acute Kidney Injury,MESH:D058186,,Gentamicins,18.6
+1700001K19RIKL,299330,Acute Kidney Injury,MESH:D058186,,Oxygen,18.6
+1700001K19RIKL,299330,Acute Kidney Injury,MESH:D058186,,Particulate Matter,18.6
+1700001K19RIKL,299330,Acute Lung Injury,MESH:D055371,,nickel monoxide,13.19
+1700001K19RIKL,299330,Acute Lung Injury,MESH:D055371,,Oxygen,13.19
+1700001K19RIKL,299330,Acute Lung Injury,MESH:D055371,,Particulate Matter,13.19
+1700001K19RIKL,299330,Adenocarcinoma,MESH:D000230,,bisphenol A,6.65
+1700001K19RIKL,299330,Adenocarcinoma,MESH:D000230,,bisphenol S,6.65
+1700001K19RIKL,299330,Adenocarcinoma of Lung,MESH:D000077192,,Particulate Matter,2.83
+1700001K19RIKL,299330,Adenoma,MESH:D000236,,Diethylhexyl Phthalate,7.88
+1700001K19RIKL,299330,Adenoma,MESH:D000236,,Particulate Matter,7.88
+1700001K19RIKL,299330,Adenomyosis,MESH:D062788,,bisphenol S,5.47
+1700001K19RIKL,299330,Agranulocytosis,MESH:D000380,,Gentamicins,3.31
+1700001K19RIKL,299330,Airway Obstruction,MESH:D000402,,Particulate Matter,3.34
+1700001K19RIKL,299330,Airway Remodeling,MESH:D056151,,Particulate Matter,4.32
+1700001K19RIKL,299330,Albuminuria,MESH:D000419,,bisphenol A,2.5
+1700001K19RIKL,299330,Alkalosis,MESH:D000471,,Gentamicins,3.73
+1700001K19RIKL,299330,"Alveolitis, Extrinsic Allergic",MESH:D000542,,Particulate Matter,4.44
+1700001K19RIKL,299330,Alzheimer Disease,MESH:D000544,,Particulate Matter,2.75
+1700001K19RIKL,299330,Anemia,MESH:D000740,,Gentamicins,6.71
+1700001K19RIKL,299330,Anemia,MESH:D000740,,Particulate Matter,6.71
+1700001K19RIKL,299330,"Anemia, Hemolytic",MESH:D000743,,Gentamicins,2.96
+1700001K19RIKL,299330,"Anemia, Sickle Cell",MESH:D000755,,Oxygen,4.11
+1700001K19RIKL,299330,Aneuploidy,MESH:D000782,,bisphenol A,9.41
+1700001K19RIKL,299330,Aneuploidy,MESH:D000782,,Diethylhexyl Phthalate,9.41
+1700001K19RIKL,299330,Angina Pectoris,MESH:D000787,,bisphenol A,2.54
+1700001K19RIKL,299330,Angioedema,MESH:D000799,,Oxygen,3.25
+1700001K19RIKL,299330,Anosmia,MESH:D000086582,,Particulate Matter,5.48
+1700001K19RIKL,299330,Anovulation,MESH:D000858,,Diethylhexyl Phthalate,4.71
+1700001K19RIKL,299330,Anuria,MESH:D001002,,Gentamicins,3.46
+1700001K19RIKL,299330,Anxiety Disorders,MESH:D001008,,bisphenol A,22.41
+1700001K19RIKL,299330,Anxiety Disorders,MESH:D001008,,bisphenol F,22.41
+1700001K19RIKL,299330,Anxiety Disorders,MESH:D001008,,bisphenol S,22.41
+1700001K19RIKL,299330,Anxiety Disorders,MESH:D001008,,Diethylhexyl Phthalate,22.41
+1700001K19RIKL,299330,Anxiety Disorders,MESH:D001008,,Particulate Matter,22.41
+1700001K19RIKL,299330,Aortic Diseases,MESH:D001018,,Gentamicins,3.72
+1700001K19RIKL,299330,Arachnoiditis,MESH:D001100,,Gentamicins,4.29
+1700001K19RIKL,299330,Arrest of spermatogenesis,MESH:C536875,,bisphenol A,13.38
+1700001K19RIKL,299330,Arrest of spermatogenesis,MESH:C536875,,Oxygen,13.38
+1700001K19RIKL,299330,"Arrhythmias, Cardiac",MESH:D001145,,bisphenol A,10.97
+1700001K19RIKL,299330,"Arrhythmias, Cardiac",MESH:D001145,,Oxygen,10.97
+1700001K19RIKL,299330,"Arrhythmias, Cardiac",MESH:D001145,,Particulate Matter,10.97
+1700001K19RIKL,299330,"Arthritis, Infectious",MESH:D001170,,Gentamicins,4.13
+1700001K19RIKL,299330,"Arthritis, Rheumatoid",MESH:D001172,,Oxygen,2.98
+1700001K19RIKL,299330,Asthenia,MESH:D001247,,Particulate Matter,3.47
+1700001K19RIKL,299330,Asthenozoospermia,MESH:D053627,,bisphenol A,9.15
+1700001K19RIKL,299330,Asthenozoospermia,MESH:D053627,,Diethylhexyl Phthalate,9.15
+1700001K19RIKL,299330,Asthma,MESH:D001249,,bisphenol A,6.71
+1700001K19RIKL,299330,Asthma,MESH:D001249,,Particulate Matter,6.71
+1700001K19RIKL,299330,Astrocytoma,MESH:D001254,,Particulate Matter,3.55
+1700001K19RIKL,299330,Ataxia,MESH:D001259,,Gentamicins,2.77
+1700001K19RIKL,299330,Atherosclerosis,MESH:D050197,,bisphenol A,12.21
+1700001K19RIKL,299330,Atherosclerosis,MESH:D050197,,Oxygen,12.21
+1700001K19RIKL,299330,Atherosclerosis,MESH:D050197,,Particulate Matter,12.21
+1700001K19RIKL,299330,Atrial Fibrillation,MESH:D001281,,Particulate Matter,2.6
+1700001K19RIKL,299330,Atrial Premature Complexes,MESH:D018880,,Particulate Matter,4.38
+1700001K19RIKL,299330,Atrioventricular Block,MESH:D054537,,bisphenol A,2.58
+1700001K19RIKL,299330,Atrophy,MESH:D001284,,bisphenol A,2.53
+1700001K19RIKL,299330,Attention Deficit and Disruptive Behavior Disorders,MESH:D019958,,bisphenol A,3.59
+1700001K19RIKL,299330,Attention Deficit Disorder with Hyperactivity,MESH:D001289,,bisphenol A,8.45
+1700001K19RIKL,299330,Attention Deficit Disorder with Hyperactivity,MESH:D001289,,Particulate Matter,8.45
+1700001K19RIKL,299330,Autism Spectrum Disorder,MESH:D000067877,,bisphenol A,6.22
+1700001K19RIKL,299330,Autism Spectrum Disorder,MESH:D000067877,,Particulate Matter,6.22
+1700001K19RIKL,299330,Autistic Disorder,MESH:D001321,,Particulate Matter,2.55
+1700001K19RIKL,299330,Autoimmune Diseases,MESH:D001327,,bisphenol A,8.51
+1700001K19RIKL,299330,Autoimmune Diseases,MESH:D001327,,Particulate Matter,8.51
+1700001K19RIKL,299330,Azoospermia,MESH:D053713,,Diethylhexyl Phthalate,4.39
+1700001K19RIKL,299330,Azotemia,MESH:D053099,,Gentamicins,3.42
+1700001K19RIKL,299330,Bacteremia,MESH:D016470,,Gentamicins,3.74
+1700001K19RIKL,299330,Bacterial Infections,MESH:D001424,,bisphenol A,8.7
+1700001K19RIKL,299330,Bacterial Infections,MESH:D001424,,Gentamicins,8.7
+1700001K19RIKL,299330,Bartter Syndrome,MESH:D001477,,Gentamicins,4.13
+1700001K19RIKL,299330,Birth Weight,MESH:D001724,,bisphenol A,20.71
+1700001K19RIKL,299330,Birth Weight,MESH:D001724,,bisphenol S,20.71
+1700001K19RIKL,299330,Birth Weight,MESH:D001724,,Diethylhexyl Phthalate,20.71
+1700001K19RIKL,299330,Birth Weight,MESH:D001724,,Particulate Matter,20.71
+1700001K19RIKL,299330,Body Weight,MESH:D001835,,bisphenol A,3.01
+1700001K19RIKL,299330,Body Weight Changes,MESH:D001836,,bisphenol A,3.07
+1700001K19RIKL,299330,"Bone Diseases, Developmental",MESH:D001848,,bisphenol A,9.37
+1700001K19RIKL,299330,"Bone Diseases, Developmental",MESH:D001848,,Particulate Matter,9.37
+1700001K19RIKL,299330,Bone Resorption,MESH:D001862,,bisphenol A,2.95
+1700001K19RIKL,299330,Bradycardia,MESH:D001919,,bisphenol A,15.03
+1700001K19RIKL,299330,Bradycardia,MESH:D001919,,bisphenol F,15.03
+1700001K19RIKL,299330,Bradycardia,MESH:D001919,,Oxygen,15.03
+1700001K19RIKL,299330,Bradycardia,MESH:D001919,,Particulate Matter,15.03
+1700001K19RIKL,299330,Brain Edema,MESH:D001929,,Blood Glucose,8.98
+1700001K19RIKL,299330,Brain Edema,MESH:D001929,,Oxygen,8.98
+1700001K19RIKL,299330,Brain Injuries,MESH:D001930,,bisphenol A,11.66
+1700001K19RIKL,299330,Brain Injuries,MESH:D001930,,Diethylhexyl Phthalate,11.66
+1700001K19RIKL,299330,Brain Injuries,MESH:D001930,,Particulate Matter,11.66
+1700001K19RIKL,299330,Brain Ischemia,MESH:D002545,,Blood Glucose,8.08
+1700001K19RIKL,299330,Brain Ischemia,MESH:D002545,,Oxygen,8.08
+1700001K19RIKL,299330,Brain Neoplasms,MESH:D001932,,Particulate Matter,3.2
+1700001K19RIKL,299330,Breast Diseases,MESH:D001941,,bisphenol A,3.72
+1700001K19RIKL,299330,Breast Neoplasms,MESH:D001943,,bisphenol A,8.56
+1700001K19RIKL,299330,Breast Neoplasms,MESH:D001943,,Diethylhexyl Phthalate,8.56
+1700001K19RIKL,299330,Breast Neoplasms,MESH:D001943,,Oxygen,8.56
+1700001K19RIKL,299330,Bronchial Hyperreactivity,MESH:D016535,,bisphenol A,9.0
+1700001K19RIKL,299330,Bronchial Hyperreactivity,MESH:D016535,,Particulate Matter,9.0
+1700001K19RIKL,299330,Bronchiolitis,MESH:D001988,,Particulate Matter,4.19
+1700001K19RIKL,299330,"Bronchiolitis, Viral",MESH:D001990,,Particulate Matter,5.48
+1700001K19RIKL,299330,Bronchitis,MESH:D001991,,Particulate Matter,3.74
+1700001K19RIKL,299330,"Bronchitis, Chronic",MESH:D029481,,Particulate Matter,3.53
+1700001K19RIKL,299330,Bronchopneumonia,MESH:D001996,,Particulate Matter,4.03
+1700001K19RIKL,299330,Bronchopulmonary Dysplasia,MESH:D001997,,Oxygen,4.43
+1700001K19RIKL,299330,Burns,MESH:D002056,,Gentamicins,3.96
+1700001K19RIKL,299330,Calcium Metabolism Disorders,MESH:D002128,,Gentamicins,5.22
+1700001K19RIKL,299330,Camptocormia,MESH:C537968,,bisphenol A,4.23
+1700001K19RIKL,299330,Carcinoma,MESH:D002277,,Particulate Matter,2.63
+1700001K19RIKL,299330,"Carcinoma, Ductal, Breast",MESH:D018270,,bisphenol A,3.37
+1700001K19RIKL,299330,"Carcinoma, Hepatocellular",MESH:D006528,,Diethylhexyl Phthalate,2.5
+1700001K19RIKL,299330,Carcinoma in Situ,MESH:D002278,,bisphenol A,4.23
+1700001K19RIKL,299330,"Carcinoma, Non-Small-Cell Lung",MESH:D002289,,Oxygen,3.07
+1700001K19RIKL,299330,"Cardiac Output, Low",MESH:D002303,,Oxygen,3.96
+1700001K19RIKL,299330,Cardiomegaly,MESH:D006332,,bisphenol A,11.54
+1700001K19RIKL,299330,Cardiomegaly,MESH:D006332,,Oxygen,11.54
+1700001K19RIKL,299330,Cardiomegaly,MESH:D006332,,Particulate Matter,11.54
+1700001K19RIKL,299330,Cardiomyopathies,MESH:D009202,,bisphenol A,11.31
+1700001K19RIKL,299330,Cardiomyopathies,MESH:D009202,,Diethylhexyl Phthalate,11.31
+1700001K19RIKL,299330,Cardiomyopathies,MESH:D009202,,Oxygen,11.31
+1700001K19RIKL,299330,"Cardiomyopathy, Dilated",MESH:D002311,,bisphenol A,2.63
+1700001K19RIKL,299330,"Cardiomyopathy, Hypertrophic",MESH:D002312,,bisphenol A,9.0
+1700001K19RIKL,299330,"Cardiomyopathy, Hypertrophic",MESH:D002312,,Oxygen,9.0
+1700001K19RIKL,299330,Cardiotoxicity,MESH:D066126,,Diethylhexyl Phthalate,3.22
+1700001K19RIKL,299330,Cardiovascular Abnormalities,MESH:D018376,,Particulate Matter,3.4
+1700001K19RIKL,299330,Cardiovascular Diseases,MESH:D002318,,bisphenol A,6.73
+1700001K19RIKL,299330,Cardiovascular Diseases,MESH:D002318,,Particulate Matter,6.73
+1700001K19RIKL,299330,Carotid Artery Diseases,MESH:D002340,,Particulate Matter,3.95
+1700001K19RIKL,299330,Carotid Intimal Medial Thickness 1,MESH:C563733,,Particulate Matter,4.67
+1700001K19RIKL,299330,Carotid Stenosis,MESH:D016893,,bisphenol A,3.57
+1700001K19RIKL,299330,Cataract,MESH:D002386,,Particulate Matter,3.23
+1700001K19RIKL,299330,"Cell Transformation, Neoplastic",MESH:D002471,,bisphenol A,6.41
+1700001K19RIKL,299330,"Cell Transformation, Neoplastic",MESH:D002471,,Particulate Matter,6.41
+1700001K19RIKL,299330,Cerebral Hemorrhage,MESH:D002543,,Blood Glucose,14.0
+1700001K19RIKL,299330,Cerebral Hemorrhage,MESH:D002543,,Oxygen,14.0
+1700001K19RIKL,299330,Cerebral Hemorrhage,MESH:D002543,,Particulate Matter,14.0
+1700001K19RIKL,299330,Cerebral Infarction,MESH:D002544,,Blood Glucose,9.5
+1700001K19RIKL,299330,Cerebral Infarction,MESH:D002544,,Oxygen,9.5
+1700001K19RIKL,299330,Cerebrovascular Disorders,MESH:D002561,,Particulate Matter,3.4
+1700001K19RIKL,299330,Chemical and Drug Induced Liver Injury,MESH:D056486,,bisphenol A,22.29
+1700001K19RIKL,299330,Chemical and Drug Induced Liver Injury,MESH:D056486,,bisphenol F,22.29
+1700001K19RIKL,299330,Chemical and Drug Induced Liver Injury,MESH:D056486,,bisphenol S,22.29
+1700001K19RIKL,299330,Chemical and Drug Induced Liver Injury,MESH:D056486,,Blood Glucose,22.29
+1700001K19RIKL,299330,Chemical and Drug Induced Liver Injury,MESH:D056486,,Diethylhexyl Phthalate,22.29
+1700001K19RIKL,299330,Chemical and Drug Induced Liver Injury,MESH:D056486,,Oxygen,22.29
+1700001K19RIKL,299330,Chemical and Drug Induced Liver Injury,MESH:D056486,,Particulate Matter,22.29
+1700001K19RIKL,299330,Chemically-Induced Disorders,MESH:D064419,,bisphenol A,3.39
+1700001K19RIKL,299330,Chest Pain,MESH:D002637,,Oxygen,8.34
+1700001K19RIKL,299330,Chest Pain,MESH:D002637,,Particulate Matter,8.34
+1700001K19RIKL,299330,Child Behavior Disorders,MESH:D002653,,bisphenol A,3.22
+1700001K19RIKL,299330,Cholangitis,MESH:D002761,,Gentamicins,3.72
+1700001K19RIKL,299330,Cholestasis,MESH:D002779,,Diethylhexyl Phthalate,2.81
+1700001K19RIKL,299330,Chromosomal Instability,MESH:D043171,,bisphenol A,3.41
+1700001K19RIKL,299330,Chromosome Aberrations,MESH:D002869,,bisphenol A,13.53
+1700001K19RIKL,299330,Chromosome Aberrations,MESH:D002869,,bisphenol S,13.53
+1700001K19RIKL,299330,Chromosome Aberrations,MESH:D002869,,Particulate Matter,13.53
+1700001K19RIKL,299330,Chromosome Breakage,MESH:D019457,,bisphenol A,12.91
