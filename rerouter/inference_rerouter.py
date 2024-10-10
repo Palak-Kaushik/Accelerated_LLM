@@ -1,37 +1,29 @@
+import torch
 from model.rerouter import classify_query, QueryRerouter, QueryEmbeddingExtractor, DOMAIN_CLASSES
-from train_rerouter import train_rerouter
 
-# Example queries and their corresponding labels
-queries = [
-    "Who was the president of the US during the Civil War?", 
-    "What is the integral of x^2?", 
-    "Write a Python program to reverse a string."
-]
-labels = [0, 1, 2]  # Labels: 0 - Social Science, 1 - STEM, 2 - Coding
-
-# Train the rerouter model first
-trained_rerouter = train_rerouter(queries, labels, num_epochs=10, learning_rate=0.001)
-
-# Test the rerouter after training
-def test_rerouter(trained_rerouter):
+# Load the trained model
+def load_trained_rerouter(model_path="trained_rerouter.pth"):
     embedding_extractor = QueryEmbeddingExtractor()
+    rerouter = QueryRerouter(input_size=768, hidden_size=256, num_classes=4)
+    rerouter.load_state_dict(torch.load(model_path))
+    rerouter.eval()  
+    return rerouter, embedding_extractor
 
-    # Example queries for testing
-    test_queries = [
-        "Who was the president of the US during the Civil War?",  # Expected: Social Science
-        "What is the integral of x^2?",  # Expected: STEM
-        "Write a Python program to reverse a string.",  # Expected: Coding
-        "What is the capital of India?",
-        "How is India geography mad ethe british rule?",
-        "How many years did British & East India Company ruled over India?",
-        "How do i Connect the backend to the frontend?"
-    ]
-    
-    for query in test_queries:
-        predicted_class = classify_query(query, trained_rerouter, embedding_extractor)
-        print(f"Query: {query}")
-        print(f"Predicted Domain: {DOMAIN_CLASSES[predicted_class]}\n")
+def classify_user_query(trained_rerouter, embedding_extractor):
+    while True:
+        # Get user input
+        user_query = input("Enter your query (or type 'exit' to quit): ").strip()
+        
+        if user_query.lower() == "exit":
+            print("Exiting the query classification.")
+            break
 
-# Test the model
+        predicted_class = classify_query(user_query, trained_rerouter, embedding_extractor)
+        predicted_domain = DOMAIN_CLASSES[predicted_class]
+
+        print(f"Query: {user_query}")
+        print(f"Predicted Domain: {predicted_domain}\n")
+
 if __name__ == "__main__":
-    test_rerouter(trained_rerouter)
+    trained_rerouter, embedding_extractor = load_trained_rerouter("trained_rerouter.pth")
+    classify_user_query(trained_rerouter, embedding_extractor)
