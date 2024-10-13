@@ -1,0 +1,356 @@
+User Query,Label
+"""Please summarize the main points of this article.""",Summarization
+"""Translate this sentence into Spanish.""",Translation
+"""Can you generate a creative story about a space adventure?""",Text Generation
+"""What's the capital of France?""",Question Answering
+"""Rewrite this paragraph in a more formal tone.""",Text-to-Text Generation
+"""Summarize this document in a few bullet points.""",Summarization
+"""Can you translate this paragraph into French?""",Translation
+"""Generate a poem about the ocean.""",Text Generation
+"""What's the population of India?""",Question Answering
+"""Rewrite this sentence to sound more professional.""",Text-to-Text Generation
+"""What is the summary of the book 'To Kill a Mockingbird'?""",Summarization
+"""Translate the following text into Japanese.""",Translation
+"""Create a short story about a detective solving a mystery.""",Text Generation
+"""How do I solve this math problem?""",Question Answering
+"""Rephrase this sentence to be shorter.""",Text-to-Text Generation
+"""Summarize the key points of this research paper.""",Summarization
+"""Please translate this English text into German.""",Translation
+"""Generate a dialogue between two friends planning a trip.""",Text Generation
+"""What is the answer to this trivia question?""",Question Answering
+"""Rewrite this paragraph in simpler language.""",Text-to-Text Generation
+"""Please summarize the main points of this article.""",Summarization
+"""Translate this sentence into Spanish.""",Translation
+"""Can you generate a creative story about a space adventure?""",Text Generation
+"""What's the capital of France?""",Question Answering
+"""Rewrite this paragraph in a more formal tone.""",Text-to-Text Generation
+"""Summarize this document in a few bullet points.""",Summarization
+"""Can you translate this paragraph into French?""",Translation
+"""Generate a poem about the ocean.""",Text Generation
+"""What's the population of India?""",Question Answering
+"""Rewrite this sentence to sound more professional.""",Text-to-Text Generation
+"""What is the summary of the book 'To Kill a Mockingbird'?""",Summarization
+"""Translate the following text into Japanese.""",Translation
+"""Create a short story about a detective solving a mystery.""",Text Generation
+"""How do I solve this math problem?""",Question Answering
+"""Rephrase this sentence to be shorter.""",Text-to-Text Generation
+"""Summarize the key points of this research paper.""",Summarization
+"""Please translate this English text into German.""",Translation
+"""Generate a dialogue between two friends planning a trip.""",Text Generation
+"""What is the answer to this trivia question?""",Question Answering
+"""Rewrite this paragraph in simpler language.""",Text-to-Text Generation
+"""Summarize the findings of this report.""",Summarization
+"""Translate this sentence into Mandarin.""",Translation
+"""Can you write a poem about love?""",Text Generation
+"""What year did World War II end?""",Question Answering
+"""Reword this sentence to be more concise.""",Text-to-Text Generation
+"""Can you summarize this chapter in a few sentences?""",Summarization
+"""Translate this document to Italian.""",Translation
+"""Generate a fictional story about time travel.""",Text Generation
+"""Who is the current president of the United States?""",Question Answering
+"""Rephrase this text to be more engaging.""",Text-to-Text Generation
+"""Please summarize the contents of this book.""",Summarization
+"""Translate this message to Russian.""",Translation
+"""Create a short story set in a futuristic city.""",Text Generation
+"""What is the capital of Japan?""",Question Answering
+"""Rewrite this passage to make it sound more authoritative.""",Text-to-Text Generation
+"""Summarize the conclusions from this study.""",Summarization
+"""Translate this text into Portuguese.""",Translation
+"""Generate a story about a dragon and a knight.""",Text Generation
+"""Who wrote 'Pride and Prejudice'?""",Question Answering
+"""Rephrase this paragraph to improve clarity.""",Text-to-Text Generation
+"""Please summarize this speech.""",Summarization
+"""Translate this email to French.""",Translation
+"""Can you create a story about an underdog hero?""",Text Generation
+"""What is the tallest mountain in the world?""",Question Answering
+"""Reword this statement to be more polite.""",Text-to-Text Generation
+"""Summarize the plot of this movie.""",Summarization
+"""Translate this letter to Arabic.""",Translation
+"""Write a short story about a haunted house.""",Text Generation
+"""How many continents are there?""",Question Answering
+"""Rewrite this sentence to be more impactful.""",Text-to-Text Generation
+"""Summarize the events of this historical period.""",Summarization
+"""Translate this text to Korean.""",Translation
+"""Create a poem about a winter landscape.""",Text Generation
+"""What is the speed of light?""",Question Answering
+"""Rephrase this to make it sound more casual.""",Text-to-Text Generation
+"""Summarize this news article in a few sentences.""",Summarization
+"""Translate this document into Hindi.""",Translation
+"""Generate a fictional story about a talking cat.""",Text Generation
+"""Who invented the telephone?""",Question Answering
+"""Rewrite this paragraph to make it more persuasive.""",Text-to-Text Generation
+"""Summarize the key arguments in this debate.""",Summarization
+"""Translate this message to Greek.""",Translation
+"""Write a story about a young adventurer.""",Text Generation
+"""What is the chemical formula for water?""",Question Answering
+"""Reword this sentence to be more concise.""",Text-to-Text Generation
+"""Summarize the main ideas of this essay.""",Summarization
+"""Translate this passage into Spanish.""",Translation
+"""Create a short story about a robot learning to feel.""",Text Generation
+"""What is the largest ocean on Earth?""",Question Answering
+"""Rephrase this to make it sound more formal.""",Text-to-Text Generation
+"""Summarize this scientific article in layman's terms.""",Summarization
+"""Translate this text into French.""",Translation
+"""Generate a story about a journey through a magical forest.""",Text Generation
+"""What is the distance between Earth and the Moon?""",Question Answering
+"""Rewrite this sentence to be more descriptive.""",Text-to-Text Generation
+"""Summarize the key findings from this research.""",Summarization
+"""Translate this document into Chinese.""",Translation
+"""Create a fictional story about a time-traveling scientist.""",Text Generation
+"""Who is the author of '1984'?""",Question Answering
+"""Rephrase this text to make it sound more engaging.""",Text-to-Text Generation
+"""Summarize the content of this podcast.""",Summarization
+"""Translate this email into Italian.""",Translation
+"""Write a short story about a detective solving a mystery.""",Text Generation
+"""How many planets are in the Solar System?""",Question Answering
+"""Rewrite this paragraph to be more concise.""",Text-to-Text Generation
+"""Summarize the plot of 'Romeo and Juliet'.""",Summarization
+"""Translate this sentence into German.""",Translation
+"""Generate a poem about the changing seasons.""",Text Generation
+"""What is the boiling point of water?""",Question Answering
+"""Reword this to make it sound more diplomatic.""",Text-to-Text Generation
+"""Summarize the key points of this presentation.""",Summarization
+"""Translate this paragraph into Russian.""",Translation
+"""Write a creative story about a hidden treasure.""",Text Generation
+"""What is the main theme of 'The Great Gatsby'?""",Question Answering
+"""Rewrite this text to make it sound more confident.""",Text-to-Text Generation
+"""Can you provide a brief summary of the main points discussed in this 10-page document about renewable energy sources?""",Summarization
+"""I need this paragraph translated into German, but please keep the technical terminology intact.""",Translation
+"""Write a short science fiction story where humans make first contact with an alien species in the year 2200.""",Text Generation
+"""Could you tell me the exact population of Tokyo as of the latest census?""",Question Answering
+"""Please rewrite the following sentence to make it sound more persuasive and professional for a business proposal.""",Text-to-Text Generation
+"""Summarize the key findings of this research paper on the effects of climate change on polar bear populations.""",Summarization
+"""Translate this legal document into French, ensuring that all legal terminology is correctly interpreted.""",Translation
+"""Can you create a detailed story about a young explorer who discovers an ancient city hidden deep in the Amazon rainforest?""",Text Generation
+"""What are the primary causes of the French Revolution, and could you list them in order of significance?""",Question Answering
+"""Please rephrase this paragraph to make it sound more approachable for a general audience, without losing the original meaning.""",Text-to-Text Generation
+"""Could you summarize the plot of 'The Catcher in the Rye,' focusing on the protagonist's character development throughout the story?""",Summarization
+"""Please translate this English contract into Japanese, and make sure to preserve the original legal nuances.""",Translation
+"""Write a creative narrative about a group of teenagers who find a portal to another dimension in their school’s basement.""",Text Generation
+"""Can you provide the answer to this history question: What events led to the signing of the Treaty of Versailles?""",Question Answering
+"""Rewrite the following text to make it more concise and direct, suitable for a social media post promoting a new product launch.""",Text-to-Text Generation
+"""I need a summary of this 20-page report on market trends, with a focus on the key insights and recommendations.""",Summarization
+"""Translate the following text into Spanish, but make sure the tone remains conversational and informal.""",Translation
+"""Please generate a fantasy story where a young girl discovers she has magical powers that could change the fate of her kingdom.""",Text Generation
+"""What are the top three reasons for the decline of the Roman Empire, and how did each contribute to its downfall?""",Question Answering
+"""Could you rephrase this technical document to make it more understandable for non-experts, while keeping the essential information intact?""",Text-to-Text Generation
+"""Please summarize the content of this webinar on digital marketing strategies, highlighting the most effective tactics discussed.""",Summarization
+"""Translate this medical journal article into Mandarin, ensuring that the medical terms are accurately conveyed.""",Translation
+"""Write a story about a scientist who accidentally travels back in time to the dinosaur era and must find a way to return to the present.""",Text Generation
+"""What were the key outcomes of the Industrial Revolution, and how did they shape modern society?""",Question Answering
+"""Please rewrite this legal text to be more user-friendly and accessible, but make sure no legal details are lost in the process.""",Text-to-Text Generation
+"""Can you provide a summary of this 50-page white paper on blockchain technology, with an emphasis on its potential applications in finance?""",Summarization
+"""Translate this email into Italian, but keep the informal tone and personal touches that were in the original.""",Translation
+"""Create a mystery story where a detective must solve a series of crimes that seem to be connected to a long-lost painting.""",Text Generation
+"""What are the main differences between the theories of evolution proposed by Darwin and Lamarck, and which is more widely accepted today?""",Question Answering
+"""Please reword this academic abstract to make it more engaging and easier to understand, while keeping all the key points intact.""",Text-to-Text Generation
+"""Summarize this in-depth analysis of global trade patterns, focusing on the emerging markets and their impact on global economies.""",Summarization
+"""Translate this technical manual into Portuguese, making sure to maintain the clarity and precision of the instructions.""",Translation
+"""Write a detailed story about an astronaut stranded on Mars who must use their ingenuity and limited resources to survive until rescue arrives.""",Text Generation
+"""Could you tell me what are the current theories on the causes of dark matter, and which theory is considered most plausible by scientists?""",Question Answering
+"""Please rephrase this customer service script to make it more empathetic and customer-focused, without changing the core message.""",Text-to-Text Generation
+"""Summarize this extensive report on the benefits of renewable energy, with a particular emphasis on solar power.""",Summarization
+"""Translate this press release into Russian, ensuring that the tone remains formal and professional.""",Translation
+"""Generate a fictional story set in a post-apocalyptic world where a small community of survivors must rebuild society from scratch.""",Text Generation
+"""What are the primary arguments for and against the use of artificial intelligence in healthcare, and what is the consensus among experts?""",Question Answering
+"""Please rewrite this technical documentation to be more accessible for new users, without losing any of the detailed instructions.""",Text-to-Text Generation
+"""Could you summarize the findings of this medical study, with a focus on the implications for public health policy?""",Summarization
+"""Translate this marketing brochure into French, making sure the branding message remains consistent.""",Translation
+"""Write a creative story about a robot who develops human emotions and must navigate life in a world that doesn’t understand it.""",Text Generation
+"""What are the key features of quantum computing, and how does it differ from classical computing?""",Question Answering
+"""Rephrase this executive summary to make it more compelling and aligned with our company’s vision.""",Text-to-Text Generation
+"""Summarize the essential points of this business plan, focusing on the financial projections and market strategy.""",Summarization
+"""Translate this scientific research paper into Arabic, ensuring the technical terms are accurately translated.""",Translation
+"""Generate a dystopian story where a totalitarian government uses advanced technology to control every aspect of its citizens’ lives.""",Text Generation
+"""Could you explain the main principles of Einstein’s theory of relativity in a way that a high school student would understand?""",Question Answering
+"""Please rewrite this job description to be more attractive to potential applicants, highlighting the key responsibilities and benefits.""",Text-to-Text Generation
+"""Summarize this legal case study, focusing on the precedent it sets for future cases involving intellectual property law.""",Summarization
+"""Translate this user manual into Korean, making sure the instructions are clear and easy to follow.""",Translation
+"""Write a detailed story about a detective who uses psychology to solve crimes, getting into the minds of both the victims and the perpetrators.""",Text Generation
+"""What are the most significant contributions of Marie Curie to the field of science, and how have they impacted modern research?""",Question Answering
+"""Reword this company mission statement to better reflect our commitment to innovation and customer satisfaction.""",Text-to-Text Generation
+"""Please provide a summary of the main conclusions drawn from this environmental impact assessment report.""",Summarization
+"""Translate this business proposal into Spanish, keeping the persuasive tone intact while ensuring the financial details are accurately translated.""",Translation
+"""Create a fictional story where a young inventor creates a device that can alter reality, but struggles with the ethical implications of using it.""",Text Generation
+"""Can you describe the process of photosynthesis in detail, and explain why it is crucial for life on Earth?""",Question Answering
+"""Rewrite this marketing copy to make it more engaging and aligned with our brand voice, while emphasizing the key benefits of our product.""",Text-to-Text Generation
+"""Summarize the key arguments presented in this debate on the impact of social media on mental health.""",Summarization
+"""Translate this legal agreement into French, ensuring that the contractual terms are clear and legally binding.""",Translation
+"""Generate a story set in a world where humans can communicate telepathically, exploring the advantages and disadvantages of such a society.""",Text Generation
+"""What are the ethical considerations surrounding the use of genetic engineering, and how are they addressed in current research?""",Question Answering
+"""Please rephrase this scientific article to make it more understandable for a general audience, while maintaining the accuracy of the information.""",Text-to-Text Generation
+"""Can you summarize this lengthy research report on the economic impacts of climate change, with a focus on the most actionable insights?""",Summarization
+"""Translate this corporate newsletter into Japanese, ensuring that the tone is friendly and the content remains engaging.""",Translation
+"""Write a creative story where an ordinary person discovers they have a superpower, but it comes with unexpected challenges.""",Text Generation
+"""Could you explain the differences between renewable and non-renewable energy sources, and why renewable energy is considered more sustainable?""",Question Answering
+"""Please rewrite this proposal to make it more convincing, with a stronger focus on the potential benefits for the client.""",Text-to-Text Generation
+"""Summarize the findings of this social science study, with an emphasis on the implications for future research in this field.""",Summarization
+"""Translate this technical report into German, making sure that the complex data and graphs are accurately interpreted.""",Translation
+"""Create a story where a group of explorers find a hidden civilization deep within the ocean, and must decide whether to reveal its existence.""",Text Generation
+"""What are the main points of conflict in the ongoing trade war between the United States and China, and how are these impacting global markets?""",Question Answering
+"""Reword this press release to be more impactful, while maintaining the original message and key details.""",Text-to-Text Generation
+"""Please summarize the key takeaways from this conference on artificial intelligence, focusing on the future trends and technologies discussed.""",Summarization
+"""Translate this patent application into Italian, ensuring that all technical descriptions and claims are accurately conveyed.""",Translation
+"""Write a detailed story where an archaeologist uncovers an ancient artifact that holds the key to a long-lost civilization’s secrets.""",Text Generation
+"""Can you explain the historical significance of the Magna Carta, and how it influenced the development of modern democratic principles?""",Question Answering
+"""Rewrite this user review to be more compelling and concise, while retaining the customer’s positive feedback about the product.""",Text-to-Text Generation
+"""Summarize this report on the latest advancements in renewable energy technology, with a focus on the practical applications of these innovations.""",Summarization
+"""Translate this customer feedback survey into Spanish, ensuring that the questions remain clear and easy to understand.""",Translation
+"""Generate a science fiction story where humans have colonized other planets, but face unexpected challenges that threaten their survival.""",Text Generation
+"""What are the main arguments for and against the use of nuclear energy, and what are the potential risks and benefits associated with it?""",Question Answering
+"""Please rephrase this advertisement to make it more catchy and engaging, while still highlighting the main features of the product.""",Text-to-Text Generation
+"""Can you provide a brief summary of the main points discussed in this 10-page document about renewable energy sources?""",Summarization
+"""I need this paragraph translated into German, but please keep the technical terminology intact.""",Translation
+"""Write a short speech on the importance of mental health awareness for a school assembly.""",Text Generation
+"""Could you tell me the exact population of Tokyo as of the latest census?""",Question Answering
+"""Please rewrite the following sentence to make it sound more persuasive and professional for a business proposal.""",Text-to-Text Generation
+"""Summarize the key findings of this research paper on the effects of climate change on polar bear populations.""",Summarization
+"""Translate this legal document into French, ensuring that all legal terminology is correctly interpreted.""",Translation
+"""Create an outline for a research paper on the impact of social media on youth culture.""",Text Generation
+"""What are the primary causes of the French Revolution, and could you list them in order of significance?""",Question Answering
+"""Please rephrase this paragraph to make it sound more approachable for a general audience, without losing the original meaning.""",Text-to-Text Generation
+"""Could you summarize the plot of 'The Catcher in the Rye,' focusing on the protagonist's character development throughout the story?""",Summarization
+"""Please translate this English contract into Japanese, and make sure to preserve the original legal nuances.""",Translation
+"""Generate a list of five creative taglines for a new eco-friendly product line.""",Text Generation
+"""Can you provide the answer to this history question: What events led to the signing of the Treaty of Versailles?""",Question Answering
+"""Rewrite the following text to make it more concise and direct, suitable for a social media post promoting a new product launch.""",Text-to-Text Generation
+"""I need a summary of this 20-page report on market trends, with a focus on the key insights and recommendations.""",Summarization
+"""Translate the following text into Spanish, but make sure the tone remains conversational and informal.""",Translation
+"""Compose a formal email to a client, explaining a delay in the delivery of their order and offering a discount on their next purchase.""",Text Generation
+"""What are the top three reasons for the decline of the Roman Empire, and how did each contribute to its downfall?""",Question Answering
+"""Could you rephrase this technical document to make it more understandable for non-experts, while keeping the essential information intact?""",Text-to-Text Generation
+"""Please summarize the content of this webinar on digital marketing strategies, highlighting the most effective tactics discussed.""",Summarization
+"""Translate this medical journal article into Mandarin, ensuring that the medical terms are accurately conveyed.""",Translation
+"""Write a professional bio for a software developer with expertise in AI and machine learning.""",Text Generation
+"""What were the key outcomes of the Industrial Revolution, and how did they shape modern society?""",Question Answering
+"""Please rewrite this legal text to be more user-friendly and accessible, but make sure no legal details are lost in the process.""",Text-to-Text Generation
+"""Can you provide a summary of this 50-page white paper on blockchain technology, with an emphasis on its potential applications in finance?""",Summarization
+"""Translate this email into Italian, but keep the informal tone and personal touches that were in the original.""",Translation
+"""Generate an agenda for a team meeting focused on improving project efficiency and collaboration.""",Text Generation
+"""What are the main differences between the theories of evolution proposed by Darwin and Lamarck, and which is more widely accepted today?""",Question Answering
+"""Please reword this academic abstract to make it more engaging and easier to understand, while keeping all the key points intact.""",Text-to-Text Generation
+"""Summarize this in-depth analysis of global trade patterns, focusing on the emerging markets and their impact on global economies.""",Summarization
+"""Translate this technical manual into Portuguese, making sure to maintain the clarity and precision of the instructions.""",Translation
+"""Draft a letter to the editor of a newspaper expressing concerns about local environmental issues.""",Text Generation
+"""Could you tell me what are the current theories on the causes of dark matter, and which theory is considered most plausible by scientists?""",Question Answering
+"""Please rephrase this customer service script to make it more empathetic and customer-focused, without changing the core message.""",Text-to-Text Generation
+"""Summarize this extensive report on the benefits of renewable energy, with a particular emphasis on solar power.""",Summarization
+"""Translate this press release into Russian, ensuring that the tone remains formal and professional.""",Translation
+"""Write a business plan summary for a startup focused on developing sustainable packaging solutions.""",Text Generation
+"""What are the primary arguments for and against the use of artificial intelligence in healthcare, and what is the consensus among experts?""",Question Answering
+"""Please rewrite this technical documentation to be more accessible for new users, without losing any of the detailed instructions.""",Text-to-Text Generation
+"""Could you summarize the findings of this medical study, with a focus on the implications for public health policy?""",Summarization
+"""Translate this marketing brochure into French, making sure the branding message remains consistent.""",Translation
+"""Compose an inspirational quote about the power of persistence.""",Text Generation
+"""What are the key features of quantum computing, and how does it differ from classical computing?""",Question Answering
+"""Rephrase this executive summary to make it more compelling and aligned with our company’s vision.""",Text-to-Text Generation
+"""Summarize the essential points of this business plan, focusing on the financial projections and market strategy.""",Summarization
+"""Translate this scientific research paper into Arabic, ensuring the technical terms are accurately translated.""",Translation
+"""Generate a set of guidelines for improving workplace communication within a remote team.""",Text Generation
+"""Could you explain the main principles of Einstein’s theory of relativity in a way that a high school student would understand?""",Question Answering
+"""Please rewrite this job description to be more attractive to potential applicants, highlighting the key responsibilities and benefits.""",Text-to-Text Generation
+"""Summarize this legal case study, focusing on the precedent it sets for future cases involving intellectual property law.""",Summarization
+"""Translate this user manual into Korean, making sure the instructions are clear and easy to follow.""",Translation
+"""Write a press release announcing the launch of a new mobile application aimed at helping users track their fitness goals.""",Text Generation
+"""What are the most significant contributions of Marie Curie to the field of science, and how have they impacted modern research?""",Question Answering
+"""Reword this company mission statement to better reflect our commitment to innovation and customer satisfaction.""",Text-to-Text Generation
+"""Please provide a summary of the main conclusions drawn from this environmental impact assessment report.""",Summarization
+"""Translate this business proposal into Spanish, keeping the persuasive tone intact while ensuring the financial details are accurately translated.""",Translation
+"""Generate a list of potential interview questions for a candidate applying for a marketing manager position.""",Text Generation
+"""Can you describe the process of photosynthesis in detail, and explain why it is crucial for life on Earth?""",Question Answering
+"""Rewrite this marketing copy to make it more engaging and aligned with our brand voice, while emphasizing the key benefits of our product.""",Text-to-Text Generation
+"""Summarize the key arguments presented in this debate on the impact of social media on mental health.""",Summarization
+"""Translate this legal agreement into French, ensuring that the contractual terms are clear and legally binding.""",Translation
+"""Write an introduction for a report on the future of electric vehicles in urban transportation.""",Text Generation
+"""What are the ethical considerations surrounding the use of genetic engineering, and how are they addressed in current research?""",Question Answering
+"""Please rephrase this scientific article to make it more understandable for a general audience, while maintaining the accuracy of the information.""",Text-to-Text Generation
+"""Can you summarize this lengthy research report on the economic impacts of climate change, with a focus on the most actionable insights?""",Summarization
+"""Translate this corporate newsletter into Japanese, ensuring that the tone is friendly and the content remains engaging.""",Translation
+"""Generate a list of three slogans for a new vegan restaurant opening in a busy metropolitan area.""",Text Generation
+"""Could you explain the differences between renewable and non-renewable energy sources, and why renewable energy is considered more sustainable?""",Question Answering
+"""Please rewrite this proposal to make it more convincing, with a stronger focus on the potential benefits for the client.""",Text-to-Text Generation
+"""Can you provide a brief summary of the main points discussed in this 10-page document about renewable energy sources?""",Summarization
+"""I need this paragraph translated into German, but please keep the technical terminology intact.""",Translation
+"""Write a short poem that captures the beauty of a sunset over the ocean.""",Text Generation
+"""Could you tell me the exact population of Tokyo as of the latest census?""",Question Answering
+"""Please rewrite the following sentence to make it sound more persuasive and professional for a business proposal.""",Text-to-Text Generation
+"""Summarize the key findings of this research paper on the effects of climate change on polar bear populations.""",Summarization
+"""Translate this legal document into French, ensuring that all legal terminology is correctly interpreted.""",Translation
+"""Draft an email requesting a meeting with a potential client to discuss a new business opportunity.""",Text Generation
+"""What are the primary causes of the French Revolution, and could you list them in order of significance?""",Question Answering
+"""Please rephrase this paragraph to make it sound more approachable for a general audience, without losing the original meaning.""",Text-to-Text Generation
+"""Could you summarize the plot of 'The Catcher in the Rye,' focusing on the protagonist's character development throughout the story?""",Summarization
+"""Please translate this English contract into Japanese, and make sure to preserve the original legal nuances.""",Translation
+"""Compose a motivational speech for a high school graduation ceremony.""",Text Generation
+"""Can you provide the answer to this history question: What events led to the signing of the Treaty of Versailles?""",Question Answering
+"""Rewrite the following text to make it more concise and direct, suitable for a social media post promoting a new product launch.""",Text-to-Text Generation
+"""I need a summary of this 20-page report on market trends, with a focus on the key insights and recommendations.""",Summarization
+"""Translate the following text into Spanish, but make sure the tone remains conversational and informal.""",Translation
+"""Generate a list of 10 creative blog post ideas for a website focused on sustainable living.""",Text Generation
+"""What are the top three reasons for the decline of the Roman Empire, and how did each contribute to its downfall?""",Question Answering
+"""Could you rephrase this technical document to make it more understandable for non-experts, while keeping the essential information intact?""",Text-to-Text Generation
+"""Please summarize the content of this webinar on digital marketing strategies, highlighting the most effective tactics discussed.""",Summarization
+"""Translate this medical journal article into Mandarin, ensuring that the medical terms are accurately conveyed.""",Translation
+"""Create a professional biography for an experienced software engineer looking to transition into a leadership role.""",Text Generation
+"""What were the key outcomes of the Industrial Revolution, and how did they shape modern society?""",Question Answering
+"""Please rewrite this legal text to be more user-friendly and accessible, but make sure no legal details are lost in the process.""",Text-to-Text Generation
+"""Can you provide a summary of this 50-page white paper on blockchain technology, with an emphasis on its potential applications in finance?""",Summarization
+"""Translate this email into Italian, but keep the informal tone and personal touches that were in the original.""",Translation
+"""Draft an introductory paragraph for a research paper on the impact of artificial intelligence on employment trends.""",Text Generation
+"""What are the main differences between the theories of evolution proposed by Darwin and Lamarck, and which is more widely accepted today?""",Question Answering
+"""Please reword this academic abstract to make it more engaging and easier to understand, while keeping all the key points intact.""",Text-to-Text Generation
+"""Summarize this in-depth analysis of global trade patterns, focusing on the emerging markets and their impact on global economies.""",Summarization
+"""Translate this technical manual into Portuguese, making sure to maintain the clarity and precision of the instructions.""",Translation
+"""Write a script for a podcast episode discussing the latest advancements in renewable energy technologies.""",Text Generation
+"""Could you tell me what are the current theories on the causes of dark matter, and which theory is considered most plausible by scientists?""",Question Answering
+"""Please rephrase this customer service script to make it more empathetic and customer-focused, without changing the core message.""",Text-to-Text Generation
+"""Summarize this extensive report on the benefits of renewable energy, with a particular emphasis on solar power.""",Summarization
+"""Translate this press release into Russian, ensuring that the tone remains formal and professional.""",Translation
+"""Generate a series of interview questions for a candidate applying for a data scientist position.""",Text Generation
+"""What are the primary arguments for the use of artificial intelligence in healthcare, and what are the ethical concerns?""",Question Answering
+"""Please rewrite this technical documentation to be more accessible for new users, without losing any of the detailed instructions.""",Text-to-Text Generation
+"""Could you summarize the findings of this medical study, with a focus on the implications for public health policy?""",Summarization
+"""Translate this marketing brochure into French, making sure the branding message remains consistent.""",Translation
+"""Write an engaging newsletter introduction for a monthly update on industry trends in technology.""",Text Generation
+"""What are the key features of quantum computing, and how does it differ from classical computing?""",Question Answering
+"""Rephrase this executive summary to make it more compelling and aligned with our company’s vision.""",Text-to-Text Generation
+"""Summarize the essential points of this business plan, focusing on the financial projections and market strategy.""",Summarization
+"""Translate this scientific research paper into Arabic, ensuring the technical terms are accurately translated.""",Translation
+"""Create a step-by-step guide on how to set up a home automation system using smart devices.""",Text Generation
+"""Could you explain the main principles of Einstein’s theory of relativity in a way that a high school student would understand?""",Question Answering
+"""Please rewrite this job description to be more attractive to potential applicants, highlighting the key responsibilities and benefits.""",Text-to-Text Generation
+"""Summarize this legal case study, focusing on the precedent it sets for future cases involving intellectual property law.""",Summarization
+"""Translate this user manual into Korean, making sure the instructions are clear and easy to follow.""",Translation
+"""Write a press release announcing a new product launch in the technology sector.""",Text Generation
+"""What are the most significant contributions of Marie Curie to the field of science, and how have they impacted modern research?""",Question Answering
+"""Reword this company mission statement to better reflect our commitment to innovation and customer satisfaction.""",Text-to-Text Generation
+"""Please provide a summary of the main conclusions drawn from this environmental impact assessment report.""",Summarization
+"""Translate this business proposal into Spanish, keeping the persuasive tone intact while ensuring the financial details are accurately translated.""",Translation
+"""Generate a list of 5 creative event ideas for a corporate team-building activity.""",Text Generation
+"""Can you describe the process of photosynthesis in detail, and explain why it is crucial for life on Earth?""",Question Answering
+"""Rewrite this marketing copy to make it more engaging and aligned with our brand voice, while emphasizing the key benefits of our product.""",Text-to-Text Generation
+"""Summarize the key arguments presented in this debate on the impact of social media on mental health.""",Summarization
+"""Translate this legal agreement into French, ensuring that the contractual terms are clear and legally binding.""",Translation
+"""Generate a set of instructions for assembling a piece of furniture, with clear steps and illustrations.""",Text Generation
+"""What are the ethical considerations surrounding the use of genetic engineering, and how are they addressed in current research?""",Question Answering
+"""Please rephrase this scientific article to make it more understandable for a general audience, while maintaining the accuracy of the information.""",Text-to-Text Generation
+"""Can you summarize this lengthy research report on the economic impacts of climate change, with a focus on the most actionable insights?""",Summarization
+"""Translate this corporate newsletter into Japanese, ensuring that the tone is friendly and the content remains engaging.""",Translation
+"""Write a product description for a new smartwatch, highlighting its unique features and benefits.""",Text Generation
+"""Could you explain the differences between renewable and non-renewable energy sources, and why renewable energy is considered more sustainable?""",Question Answering
+"""Please rewrite this proposal to make it more convincing, with a stronger focus on the potential benefits for the client.""",Text-to-Text Generation
+"""Summarize the findings of this social science study, with an emphasis on the implications for future research in this field.""",Summarization
+"""Translate this technical report into German, making sure that the complex data and graphs are accurately interpreted.""",Translation
+"""Create a detailed guide on how to start a podcast, including tips on equipment, content creation, and promotion.""",Text Generation
+"""What are the main points of conflict in the ongoing trade war between the United States and China, and how are these impacting global markets?""",Question Answering
+"""Reword this press release to be more impactful, while maintaining the original message and key details.""",Text-to-Text Generation
+"""Please summarize the key takeaways from this conference on artificial intelligence, focusing on the future trends and technologies discussed.""",Summarization
+"""Translate this patent application into Italian, ensuring that all technical descriptions and claims are accurately conveyed.""",Translation
+"""Write a persuasive email to a potential client explaining why they should choose your company’s services over a competitor’s.""",Text Generation
+"""Can you explain the historical significance of the Magna Carta, and how it influenced the development of modern democratic principles?""",Question Answering
+"""Rewrite this user review to be more compelling and concise, while retaining the customer’s positive feedback about the product.""",Text-to-Text Generation
+"""Summarize this report on the latest advancements in renewable energy technology, with a focus on the practical applications of these innovations.""",Summarization
+"""Translate this customer feedback survey into Spanish, ensuring that the questions remain clear and easy to understand.""",Translation
+"""Write a script for a video tutorial on how to use a new software application, highlighting its key features and user benefits.""",Text Generation
+"""What are the main arguments for and against the use of nuclear energy, and what are the potential risks and benefits associated with it?""",Question Answering
+"""Please rephrase this advertisement to make it more catchy and engaging, while still highlighting the main features of the product.""",Text-to-Text Generation
