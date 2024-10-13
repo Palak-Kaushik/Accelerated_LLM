@@ -36,10 +36,10 @@ class QueryEmbeddingExtractor:
             outputs = self.model(**inputs)
         return outputs.last_hidden_state[:, 0, :]
 
-def classify_query(query, rerouter, embedding_extractor):
-    embeddings = embedding_extractor.get_embeddings(query)
-    output = rerouter(embeddings)
-    _, predicted_class = torch.max(output.data, 1)
-    return predicted_class.item()
+# def classify_query(query, rerouter, embedding_extractor):
+#     embeddings = embedding_extractor.get_embeddings(query)
+#     output = rerouter(embeddings)
+#     _, predicted_class = torch.max(output.data, 1)
+#     return predicted_class.item()
 
-DOMAIN_CLASSES = {0: 'question_answering', 1: 'translation', 2: 'summarization', 3: 'text2text_generation'}
+# DOMAIN_CLASSES = {0: 'question_answering', 1: 'translation', 2: 'summarization', 3: 'text2text_generation'}
