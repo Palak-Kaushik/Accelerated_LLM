@@ -1,58 +1,166 @@
-query,label
-What is the capital of Germany?,0
-Who won the World Cup in 2018?,0
-How many continents are there?,0
-Translate 'Good morning' to French.,1
-How do you say 'I love you' in Spanish?,1
-Translate this text from Chinese to English.,1
-Summarize the key points of the latest climate change report.,2
-Can you summarize this article about the French Revolution?,2
-Give me a brief summary of the new research on AI ethics.,2
-Paraphrase: 'A stitch in time saves nine.',3
-Rewrite the following statement in simpler terms: 'Photosynthesis is the process by which plants convert light into energy.',3
-Explain this sentence in different words: 'The sun rises in the east.',3
-Who is the CEO of Tesla?,0
-What is the population of Japan?,0
-Translate 'Goodbye' to Japanese.,1
-How would you say 'Nice to meet you' in German?,1
-Summarize the main points of the US Constitution.,2
-Provide a summary of the novel '1984' by George Orwell.,2
-Paraphrase this sentence: 'Birds of a feather flock together.',3
-Can you rewrite this in your own words: 'Water boils at 100 degrees Celsius.',3
-What's the highest mountain in the world?,0
-Who discovered electricity?,0
-Translate 'How are you?' into Italian.,1
-Summarize the history of the Roman Empire.,2
-Explain 'E = mc^2' in simpler terms.,3
-What's the atomic number of Helium?,0
-Who is the current Prime Minister of Canada?,0
-Translate 'I am hungry' into Korean.,1
-Summarize the plot of 'To Kill a Mockingbird'.,2
-Paraphrase: 'All that glitters is not gold.',3
-Who wrote 'Pride and Prejudice'?,0
-What is the speed of light?,0
-Translate 'Thank you' into Russian.,1
-Summarize the events of World War II.,2
-Rewrite this for me: 'The Earth revolves around the Sun.',3
-Translate the following phrase into Arabic: 'Have a great day!',1
-Summarize the life of Albert Einstein.,2
-What's the boiling point of water in Fahrenheit?,0
-Explain the Pythagorean theorem.,0
-Translate 'I am feeling happy today' into Portuguese.,1
-Give me a short summary of the industrial revolution.,2
-Paraphrase: 'Actions speak louder than words.',3
-How do you convert Celsius to Fahrenheit?,0
-Translate the sentence 'It's a beautiful day' into French.,1
-Summarize the findings of the latest climate research.,2
-Paraphrase: 'Rome wasn't built in a day.',3
-Who is the founder of Microsoft?,0
-Translate 'Where is the bathroom?' into German.,1
-Give me a summary of the latest news on space exploration.,2
-Explain this phrase in simple terms: 'Time is money.',3
-Translate 'Please help me' into Japanese.,1
-Summarize the book 'The Great Gatsby'.,2
-Paraphrase: 'A rolling stone gathers no moss.',3
-What is the definition of a black hole?,0
-How do you say 'Cheers!' in Spanish?,1
-Summarize the causes of the American Civil War.,2
-Rewrite this: 'The moon orbits around Earth.',3
+query,label,
+Paraphrase: 'A stitch in time saves nine.',3,
+Who is the CEO of Tesla?,0,
+Provide a summary of the novel '1984' by George Orwell.,2,
+Paraphrase this sentence: 'Birds of a feather flock together.',3,
+Can you rewrite this in your own words: 'Water boils at 100 degrees Celsius.',3,
+Translate 'How are you?' into Italian.,1,
+Summarize the history of the Roman Empire.,2,
+Paraphrase: 'All that glitters is not gold.',3,
+Translate 'Thank you' into Russian.,1,
+Translate the following phrase into Arabic: 'Have a great day!',1,
+Give me a short summary of the industrial revolution.,2,
+Who is the founder of Microsoft?,0,
+Translate 'Please help me' into Japanese.,1,
+Summarize the plot of 'The Catcher in the Rye'.,2,
+Rewrite this sentence: 'Life is like a box of chocolates.',3,
+Who painted 'Starry Night'?,0,
+Summarize the key points of climate change research.,2,
+Paraphrase: 'Don't put all your eggs in one basket.',3,
+Who wrote 'To Kill a Mockingbird'?,0,
+Give an overview of the French Revolution.,2,
+Explain the concept of photosynthesis to a child.,3,
+Who was the first person to walk on the moon?,0,
+Give a brief overview of the Enlightenment period.,2,
+Rewrite this sentence: 'Rome wasn't built in a day.',3,
+Who composed the 'Moonlight Sonata'?,0,
+Provide a summary of the theory of evolution.,2,
+How do you say 'Nice to meet you' in Turkish?,1,
+Give an overview of the Renaissance art movement.,2,
+Explain the concept of climate change to a teenager.,3,
+Explain the concept of inflation in easy-to-understand terms.,3,
+Give a brief overview of the Scientific Revolution.,2,
+Explain the concept of natural selection to a high school student.,3,
+What is the longest river in Europe?,0,
+Summarize the main events of World War II.,2,
+Rewrite this sentence: 'The pen is mightier than the sword.',3,
+Paraphrase: 'A picture is worth a thousand words.',3,
+What is the smallest country in the world?,0,
+How would you say 'I'm sorry' in Swahili?,1,
+Explain the concept of global warming to a child.,3,
+Summarize the main events of the Cuban Missile Crisis.,2,
+Rewrite this sentence: 'All that glitters is not gold.',3,
+How many continents are there?,0,
+Translate 'Good morning' to French.,1,
+Who discovered electricity?,0,
+Explain 'E = mc^2' in simpler terms.,3,
+Who is the current Prime Minister of Canada?,0,
+Summarize the plot of 'To Kill a Mockingbird'.,2,
+What is the speed of light?,0,
+Summarize the events of World War II.,2,
+Summarize the life of Albert Einstein.,2,
+What's the boiling point of water in Fahrenheit?,0,
+Paraphrase: 'Actions speak louder than words.',3,
+How do you convert Celsius to Fahrenheit?,0,
+Translate 'Where is the bathroom?' into German.,1,
+Explain this phrase in simple terms: 'Time is money.',3,
+Give a brief overview of the Renaissance period.,2,
+Translate 'How are you doing?' to German.,1,
+Provide a summary of the American Civil Rights Movement.,2,
+Translate 'I don't understand' to Spanish.,1,
+How do you say 'Goodbye' in Mandarin Chinese?,1,
+Translate 'Where is the nearest hospital?' to Arabic.,1,
+Rewrite this in simpler words: 'Carpe diem',3,
+Explain the water cycle in easy-to-understand terms.,3,
+How would you say 'How much does this cost?' in Hindi?,1,
+What is the largest desert in the world?,0,
+Summarize the key events of the Cold War.,2,
+What is the tallest mountain in North America?,0,
+How do you say 'Cheers!' in Irish Gaelic?,1,
+Translate 'I'm allergic to peanuts' to Thai.,1,
+How would you say 'Do you speak English?' in Norwegian?,1,
+Explain the concept of renewable energy in simple terms.,3,
+What is the capital of Australia?,0,
+How do you say 'I'm vegetarian' in Finnish?,1,
+Summarize the main principles of Buddhism.,2,
+Provide a summary of the Space Race.,2,
+Explain the concept of quantum physics in layman's terms.,3,
+Who discovered the theory of relativity?,0,
+Translate 'Can you help me find my hotel?' to Danish?,1,
+What is the capital of Germany?,0,
+Who won the World Cup in 2018?,0,
+Can you summarize this article about the French Revolution?,2,
+What is the population of Japan?,0,
+Summarize the main points of the US Constitution.,2,
+What's the highest mountain in the world?,0,
+Explain the Pythagorean theorem.,0,
+Summarize the book 'The Great Gatsby'.,2,
+Paraphrase: 'A rolling stone gathers no moss.',3,
+What is the definition of a black hole?,0,
+Summarize the causes of the American Civil War.,2,
+What is the capital of Brazil?,0,
+Who invented the light bulb?,0,
+Explain the concept of supply and demand in simple terms.,3,
+Explain the theory of relativity in layman's terms.,3,
+What is the speed of light in a vacuum?,0,
+Summarize the main principles of democracy.,2,
+Who discovered penicillin?,0,
+Provide a summary of World War I.,2,
+Translate 'Happy birthday' to Swedish.,1,
+Explain the concept of democracy in simple terms.,3,
+Translate 'Can you help me?' to Greek.,1,
+Who invented the telephone?,0,
+Summarize the main points of Freud's psychoanalysis theory.,2,
+Provide a summary of the American Revolution.,2,
+What is the smallest planet in our solar system?,0,
+Summarize the plot of 'Pride and Prejudice'.,2,
+Paraphrase: 'A penny saved is a penny earned.',3,
+Who discovered electricity?,0,
+Who painted the Sistine Chapel ceiling?,0,
+Provide a summary of the history of ancient Egypt.,2,
+Translate 'Have a nice day' to Czech.,1,
+Give an overview of the Harlem Renaissance.,2,
+Translate 'What time is it?' to Romanian.,1,
+Paraphrase: 'When it rains  it pours.',3,
+How do you say 'I'm vegetarian' in Hebrew?,1,
+Give a brief overview of the Reformation period.,2,
+How do you say 'I love you' in Spanish?,1,
+Translate this text from Chinese to English.,1,
+Summarize the key points of the latest climate change report.,2,
+Give me a brief summary of the new research on AI ethics.,2,
+Rewrite the following statement in simpler terms: 'Photosynthesis is the process by which plants convert light into energy.',3,
+Explain this sentence in different words: 'The sun rises in the east.',3,
+Translate 'Goodbye' to Japanese.,1,
+How would you say 'Nice to meet you' in German?,1,
+What's the atomic number of Helium?,0,
+Translate 'I am hungry' into Korean.,1,
+Who wrote 'Pride and Prejudice'?,0,
+Rewrite this for me: 'The Earth revolves around the Sun.',3,
+Translate 'I am feeling happy today' into Portuguese.,1,
+Translate the sentence 'It's a beautiful day' into French.,1,
+Summarize the findings of the latest climate research.,2,
+Paraphrase: 'Rome wasn't built in a day.',3,
+Give me a summary of the latest news on space exploration.,2,
+How do you say 'Cheers!' in Spanish?,1,
+Rewrite this: 'The moon orbits around Earth.',3,
+Translate 'Good evening' to Italian.,1,
+Paraphrase: 'The apple doesn't fall far from the tree.',3,
+How do you say 'Thank you very much' in French?,1,
+What is the largest planet in our solar system?,0,
+Summarize the main events of the Industrial Revolution.,2,
+How would you say 'Excuse me' in Japanese?,1,
+What is the chemical symbol for silver?,0,
+How would you say 'What's your name?' in Russian?,1,
+What is the boiling point of water in Celsius?,0,
+Translate 'I love you' to Portuguese.,1,
+Summarize the plot of 'The Great Gatsby'.,2,
+Paraphrase: 'Actions speak louder than words.',3,
+How do you say 'Please help me' in Korean?,1,
+Explain the concept of gravity to a 5-year-old.,3,
+What is the deepest point in the ocean?,0,
+Summarize the causes and effects of the Great Depression.,2,
+Paraphrase: 'Every cloud has a silver lining.',3,
+Translate 'Where is the bathroom?' to Polish.,1,
+Rewrite this in simpler terms: 'To be or not to be  that is the question.',3,
+Who wrote 'The Origin of Species'?,0,
+How would you say 'I'm lost' in Dutch?,1,
+Translate 'Good luck' to Vietnamese.,1,
+Summarize the key points of Marxist philosophy.,2,
+Who invented the World Wide Web?,0,
+Explain the concept of artificial intelligence to a layperson.,3,
+Translate 'Can you recommend a good restaurant?' to Indonesian.,1,
+Rewrite this in simpler words: 'To err is human to forgive divine.',3,
+Who wrote 'War and Peace'?,0,
+What is the largest mammal on Earth?,0,
+Summarize the plot of 'One Hundred Years of Solitude'.,2,
+What is the official language of Brazil?,0,
